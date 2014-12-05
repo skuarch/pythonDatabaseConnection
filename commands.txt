@@ -1,0 +1,3 @@
+yum install python-setuptools
+yum install MySQL-python
+sudo pip install MySQL-python

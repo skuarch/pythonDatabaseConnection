@@ -1,0 +1,6 @@
+host = "localhost"
+name = ""
+user = ""
+password = ""
+port = ""
+log = "mdr_client.log"
